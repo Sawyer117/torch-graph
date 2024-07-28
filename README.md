@@ -41,4 +41,4 @@ compile_capture(model, x)
 ```
 
 You'll find the captured graphs in `.svg` format under current folder.
-
+https://fkong.tech/posts/2023-05-31-torch-graph/
